@@ -1,0 +1,4 @@
+1.download git 
+2.git config --global user.name "username"
+git config --global user.email "email"
+3.git clone https(git address repo)
